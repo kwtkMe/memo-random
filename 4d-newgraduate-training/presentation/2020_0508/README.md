@@ -88,12 +88,17 @@
 
 #### オープンにすること
 
-参考：[リーナスの法則](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%BC%E3%83%8A%E3%82%B9%E3%81%AE%E6%B3%95%E5%89%87)
-
 > 十分な目ん玉があれば、全てのバグは洗い出される」（"Given enough eyeballs, all bugs are shallow"）
 
 > もっと格式ばって言うと、「十分なベータテスターと共同開発者がいれば、ほとんど全ての問題は、すぐさま明らかになり、すぐさま修正される」（"Given a large enough beta-tester and co-developer base, almost every problem will be characterized quickly and the fix will be obvious to someone."）
 
+参考：[リーナスの法則](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%BC%E3%83%8A%E3%82%B9%E3%81%AE%E6%B3%95%E5%89%87)
+
+実はフォーデジットに入社するより前から知っていた概念で、これは「リーナスの法則」という言葉だが、チームが「オープンにすること」という行動で得られる恩恵は、ソフトウェアの世界では広く知られていること。
+
+特に職種別課題のとき、メンターの西垣さんからフィードバックやレビューを受けながら感じていて、分からないなら分からないなりに、それまでの完成品を見せてしまうのも有効だったかも、という反省がある。
+
+これは開発のときだけではなく、もっと汎用性のある考え方なのかもしれない、という感触がある。
 
 #### コミュニケーションをとること
 
